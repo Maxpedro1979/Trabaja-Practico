@@ -1,0 +1,6 @@
+Red de área local LAN: es una red informática ubicada una cerca de otra, oficinas, hogar,universidades.
+
+Red de área amplia WAN: cubren una área geográfica mas grande, como una ciudad, un país, o a nivel global.
+
+Red de área metropolitana MAN: cubre una área mas grande que LAN pero mas pequeña que WAN esta 
+centrada en una ciudad o área metropolitana.
